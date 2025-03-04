@@ -121,7 +121,7 @@
     </button>
   </div>
   <p class="text-gray-600">
-    Solver inspired by
+    Solver (heavily) inspired by
     <a class="underline" href="https://www.youtube.com/watch?v=1izbpSk3ays"
       >this video</a
     >.
